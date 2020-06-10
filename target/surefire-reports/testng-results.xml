@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="97" started-at="2020-05-26T21:23:41 IST" finished-at="2020-05-26T21:23:41 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="97" started-at="2020-05-26T21:23:41 IST" finished-at="2020-05-26T21:23:41 IST">
+      <class name="Tutorial.MavenTest.appiumTest">
+        <test-method status="PASS" signature="nativeAndroidapp()[pri:0, instance:Tutorial.MavenTest.appiumTest@4cf777e8]" name="nativeAndroidapp" duration-ms="1" started-at="2020-05-26T21:23:41 IST" finished-at="2020-05-26T21:23:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAndroidapp -->
+        <test-method status="PASS" signature="nativeIOSapp()[pri:0, instance:Tutorial.MavenTest.appiumTest@4cf777e8]" name="nativeIOSapp" duration-ms="1" started-at="2020-05-26T21:23:41 IST" finished-at="2020-05-26T21:23:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeIOSapp -->
+      </class> <!-- Tutorial.MavenTest.appiumTest -->
+      <class name="Tutorial.MavenTest.seleniumTest">
+        <test-method status="PASS" signature="testWebapp()[pri:0, instance:Tutorial.MavenTest.seleniumTest@59ec2012]" name="testWebapp" duration-ms="8" started-at="2020-05-26T21:23:41 IST" finished-at="2020-05-26T21:23:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWebapp -->
+        <test-method status="PASS" signature="testWebapp2()[pri:0, instance:Tutorial.MavenTest.seleniumTest@59ec2012]" name="testWebapp2" duration-ms="3" started-at="2020-05-26T21:23:41 IST" finished-at="2020-05-26T21:23:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWebapp2 -->
+      </class> <!-- Tutorial.MavenTest.seleniumTest -->
+      <class name="Tutorial.MavenTest.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:Tutorial.MavenTest.RestAPITest@2f686d1f]" name="deleteTwitter" duration-ms="0" started-at="2020-05-26T21:23:41 IST" finished-at="2020-05-26T21:23:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJiRA()[pri:0, instance:Tutorial.MavenTest.RestAPITest@2f686d1f]" name="postJiRA" duration-ms="0" started-at="2020-05-26T21:23:41 IST" finished-at="2020-05-26T21:23:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJiRA -->
+      </class> <!-- Tutorial.MavenTest.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
